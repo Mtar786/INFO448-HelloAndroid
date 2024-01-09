@@ -1,4 +1,9 @@
 # UW Homework: Hello Android
+
+# Extra Credit :
+> A useful feature I reserached is the Force RTL layout direction. This features forces the layout of the device to be right to left regardless of the language settings. for testing how an app's layout and text direction behave in languages that are read from right to left, such as Arabic, Hebrew, or Persian. This option can be beneficial for developers to ensure that their apps are properly localized and display correctly in RTL languages.
+> In a class , this feature might be utilized during app development and testing phases to ensure cross-language compatibility and proper layout adjustments for different language orientations. But I do not know how frequent I will use this option.
+
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
 * run Android Studio
